@@ -1,8 +1,8 @@
-version: 0.5.1
+version: 0.5.2
 files:
-  - url: AMAZON-OS-Kurulum-0.5.1.exe
-    sha512: buTLLGWyHq9Pz3Be/ZH5N/gZ4Frblqoumj2H+YlgQZrbpZWvEhoc70Kuw5EkVqn8WYWht9dInaKQPjJDoIS5Yg==
-    size: 81740935
-path: AMAZON-OS-Kurulum-0.5.1.exe
-sha512: buTLLGWyHq9Pz3Be/ZH5N/gZ4Frblqoumj2H+YlgQZrbpZWvEhoc70Kuw5EkVqn8WYWht9dInaKQPjJDoIS5Yg==
-releaseDate: '2026-10-29T08:48:09.741Z'
+  - url: AMAZON-OS-Kurulum-0.5.2.exe
+    sha512: ehm/Hxmt2gJoFux3upaTFAsd9hjMackpq2lsxKXWsoNzIIp9brCesDA2qlbYBh6V5r1Z9UqrWLhw0xo44/Y5Zw==
+    size: 81742493
+path: AMAZON-OS-Kurulum-0.5.2.exe
+sha512: ehm/Hxmt2gJoFux3upaTFAsd9hjMackpq2lsxKXWsoNzIIp9brCesDA2qlbYBh6V5r1Z9UqrWLhw0xo44/Y5Zw==
+releaseDate: '2026-10-29T10:11:15.730Z'
