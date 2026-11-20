@@ -1,0 +1,10 @@
+{
+  "name": "AMAZON OS Mobil",
+  "short_name": "AOS Mobil",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#0f6e63",
+  "lang": "tr",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
