@@ -1,8 +1,8 @@
-version: 1.4.14
+version: 1.4.15
 files:
-  - url: AMAZON-OS-Kurulum-1.4.14.exe
-    sha512: S27vZsH+2QgE2XlBKGxyTXxjjLIFI7q3HNew5gUlrT5WfMYfx5YSOu9TQMEsnG0qRnN6L264CTqS9+3EcXLAWA==
-    size: 81936462
-path: AMAZON-OS-Kurulum-1.4.14.exe
-sha512: S27vZsH+2QgE2XlBKGxyTXxjjLIFI7q3HNew5gUlrT5WfMYfx5YSOu9TQMEsnG0qRnN6L264CTqS9+3EcXLAWA==
-releaseDate: '2026-11-21T11:45:10.717Z'
+  - url: AMAZON-OS-Kurulum-1.4.15.exe
+    sha512: 6ZqPpcbvtppAAyz7N+ywTENUqQQA+xuNgLo3gqwb/qDHiQeEJM4nLaUB/nNyhtZcmtrHE9lZmluBUGW59madTA==
+    size: 81937731
+path: AMAZON-OS-Kurulum-1.4.15.exe
+sha512: 6ZqPpcbvtppAAyz7N+ywTENUqQQA+xuNgLo3gqwb/qDHiQeEJM4nLaUB/nNyhtZcmtrHE9lZmluBUGW59madTA==
+releaseDate: '2026-11-21T12:36:05.017Z'
